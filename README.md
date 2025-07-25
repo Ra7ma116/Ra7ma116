@@ -50,7 +50,7 @@
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-<a href="www.linkedin.com/in/rahma-samy-23bab62b6" target="_blank">
+<a href="https://www.linkedin.com/in/rahma-samy-23bab62b6/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="Rahma's LinkedIn" />
 </a>
 <a href="https://github.com/Ra7ma116" target="_blank">
