@@ -12,7 +12,7 @@
 🎯 Goals: Keep learning and growing as a developer.
 </p>
 
----
+
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
----
+
 
 <h2 align="left">Statistics:</h2>
 
@@ -49,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra7ma116&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
----
+
 
 <h2 align="left">Connect with me:</h2>
 
