@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Rhama and I'm an Web Developer.</p>
+<p align="left">My name is Rahma and I'm an Web Developer.</p>
 
 ---
 
